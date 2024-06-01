@@ -1,2 +1,2 @@
-[![create-github-public-repo](https://github-readme-stats.vercel.app/api/pin/?username=barrosflavio&repo=create-github-public-repo)](https://github.com/barrosflavio/create-github-public-repo)
-[![top-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barrosflavio)](https://github.com/barrosflavio)
+[![Create Repo Project](https://github-readme-stats.vercel.app/api/pin/?username=barrosflavio&repo=create-github-public-repo&bg_color=DFDBD4&hide_border=true&title_color=5E513C&text_color=7A7062)](https://github.com/barrosflavio/create-github-public-repo)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barrosflavio&layout=pie&bg_color=DFDBD4&hide_border=true&title_color=5E513C&text_color=7A7062)](https://github.com/barrosflavio)
