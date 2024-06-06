@@ -8,5 +8,5 @@
 [![Refresh Repo Project](https://github-readme-stats.vercel.app/api/pin/?username=barrosflavio&repo=refresh-github-repo&bg_color=DFDBD4&hide_border=true&title_color=5E513C&text_color=7A7062&locale=pt-br)](https://github.com/barrosflavio/refresh-github-repo)
 [![X11VNC Server](https://github-readme-stats.vercel.app/api/pin/?username=barrosflavio&repo=x11vnc_setup&bg_color=DFDBD4&hide_border=true&title_color=5E513C&text_color=7A7062&locale=pt-br)](https://github.com/barrosflavio/x11vnc_setup)
 [![My GO Model](https://github-readme-stats.vercel.app/api/pin/?username=barrosflavio&repo=my_go_model&bg_color=DFDBD4&hide_border=true&title_color=5E513C&text_color=7A7062&locale=pt-br)](https://github.com/barrosflavio/my_go_model)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barrosflavio&layout=donut-vertical&bg_color=DFDBD4&hide_border=true&title_color=5E513C&text_color=7A7062&locale=pt-br)](https://github.com/barrosflavio)
-[![Last Card](https://github.com/barrosflavio/barrosflavio/blob/main/final-card.svg)](https://github.com/barrosflavio)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barrosflavio&layout=donut-vertical&bg_color=DFDBD4&hide_border=true&title_color=5E513C&text_color=7A7062&locale=pt-br)](#)
+[![Last Card](https://github.com/barrosflavio/barrosflavio/blob/main/final-card.svg)](#)
