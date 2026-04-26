@@ -8,3 +8,5 @@
 [![Refresh Repo Project](https://github-readme-stats.vercel.app/api/pin/?username=barrosflavio&repo=refresh-github-repo&bg_color=DFDBD4&hide_border=true&title_color=5E513C&text_color=7A7062)](https://github.com/barrosflavio/refresh-github-repo)
 [![X11VNC Server](https://github-readme-stats.vercel.app/api/pin/?username=barrosflavio&repo=x11vnc_setup&bg_color=DFDBD4&hide_border=true&title_color=5E513C&text_color=7A7062)](https://github.com/barrosflavio/x11vnc_setup)
 [![X11VNC Server](https://github-readme-stats.vercel.app/api/pin/?username=barrosflavio&repo=ruby_better_input&bg_color=DFDBD4&hide_border=true&title_color=5E513C&text_color=7A7062)](https://github.com/barrosflavio/ruby_better_input)
+
+add keycode77.sh xmodmapmain
