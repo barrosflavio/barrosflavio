@@ -2,8 +2,8 @@
 [![Quem sou eu](https://gitea.phpense.com/flavio/.profile/raw/branch/main/about-me.svg)](#aboutme)
 [![Quem sou eu 2](https://gitea.phpense.com/flavio/.profile/raw/branch/main/about-me2.svg)](#aboutme2)
 ## Melhores repositórios:
-[![PDV Controll](https://github-readme-stats.vercel.app/api/pin/?username=barrosflavio&repo=pdv_controll&bg_color=DFDBD4&hide_border=true&title_color=5E513C&text_color=7A7062)](https://github.com/barrosflavio/pdv_controll)
-[![Novo Links](https://github-readme-stats.vercel.app/api/pin/?username=barrosflavio&repo=novo-docker-apache&bg_color=DFDBD4&hide_border=true&title_color=5E513C&text_color=7A7062)](https://github.com/barrosflavio/novo-docker-apache)
+[![Quem sou eu](https://gitea.phpense.com/flavio/.profile/raw/branch/main/pdv_controll_card2.svg)](https://github.com/barrosflavio/pdv_controll)
+[![Quem sou eu 2](https://gitea.phpense.com/flavio/.profile/raw/branch/main/novo-docker-apache-card2.svg)](https://github.com/barrosflavio/novo-docker-apache)
 [![Create Repo Project](https://github-readme-stats.vercel.app/api/pin/?username=barrosflavio&repo=create-github-public-repo&bg_color=DFDBD4&hide_border=true&title_color=5E513C&text_color=7A7062)](https://github.com/barrosflavio/create-github-public-repo)
 [![Refresh Repo Project](https://github-readme-stats.vercel.app/api/pin/?username=barrosflavio&repo=refresh-github-repo&bg_color=DFDBD4&hide_border=true&title_color=5E513C&text_color=7A7062)](https://github.com/barrosflavio/refresh-github-repo)
 [![X11VNC Server](https://github-readme-stats.vercel.app/api/pin/?username=barrosflavio&repo=x11vnc_setup&bg_color=DFDBD4&hide_border=true&title_color=5E513C&text_color=7A7062)](https://github.com/barrosflavio/x11vnc_setup)
