@@ -1,7 +1,7 @@
-## Perfil de Flávio
+## Sobre:
 [![Quem sou eu](https://gitea.phpense.com/flavio/.profile/raw/branch/main/about-me.svg)](#aboutme)
 [![Quem sou eu 2](https://gitea.phpense.com/flavio/.profile/raw/branch/main/about-me2.svg)](#aboutme2)
-## Featured repositories
+## Melhores repositórios:
 [![PDV Controll](https://github-readme-stats.vercel.app/api/pin/?username=barrosflavio&repo=pdv_controll&bg_color=DFDBD4&hide_border=true&title_color=5E513C&text_color=7A7062)](https://github.com/barrosflavio/pdv_controll)
 [![Novo Links](https://github-readme-stats.vercel.app/api/pin/?username=barrosflavio&repo=novo-docker-apache&bg_color=DFDBD4&hide_border=true&title_color=5E513C&text_color=7A7062)](https://github.com/barrosflavio/novo-docker-apache)
 [![Create Repo Project](https://github-readme-stats.vercel.app/api/pin/?username=barrosflavio&repo=create-github-public-repo&bg_color=DFDBD4&hide_border=true&title_color=5E513C&text_color=7A7062)](https://github.com/barrosflavio/create-github-public-repo)
